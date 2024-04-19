@@ -2,7 +2,7 @@
 
 Esta aplicación en Python permite el intercambio de archivos peer-to-peer (P2P) dentro de una red local. Utiliza sockets para la comunicación en red, permitiendo a los usuarios compartir y descargar archivos de manera dinámica entre los nodos conocidos en la red.
 
-##Características
+## Características
 
 - Compartir Archivos: Comparte archivos de manera dinámica con todos los pares conectados.
 - Descubrimiento de Archivos: Descubre automáticamente los archivos disponibles en la red.
